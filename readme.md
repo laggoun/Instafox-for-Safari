@@ -4,7 +4,7 @@
 
 This extension changes the main appearance of Instapaper with a dark style.
 
-![Preview](https://github.com/laggoun/Instafox-for-Safari/blob/master/preview.png)
+![Preview](https://github.com/laggoun/Instafox-for-Safari/raw/master/preview.png)
 
 ## Install ##
 
