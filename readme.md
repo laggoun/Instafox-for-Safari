@@ -23,4 +23,15 @@ First Draft with the following pages:
 ## To-do ##
 
 - extras
-- account## License ##
+- account
+
+## Notes & contact ##
+
+You can create issues if you encounter problems or if you have some suggestions to make.
+[Portfolio](http://laggoun.com)
+[Dribbble](http://dribbble.com/laggoun)
+[Twitter](http://laggoun.com)
+
+## License ##
+
+This work is under a [Creative Commons](http://creativecommons.org/licenses/by-nc-nd/3.0/)
