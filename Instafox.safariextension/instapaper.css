@@ -1,0 +1,226 @@
+
+body{
+	width: 100% !important;
+	background-color: #2e3034 !important;
+	background-image: url("img/black-header.png");
+	background-repeat: repeat-x;
+	font-family: "Helvetica Neue", sans-serif !important;
+	color: white !important;
+}
+
+a.logo{
+	font-family: "Helvetica Neue", sans-serif !important;
+	font-size: 18px !important;
+	font-weight: bold !important;
+	color: white !important;
+}
+
+#header{
+	margin: auto !important;
+	width: 700px;
+	height: 53px !important;
+}
+
+#header h1#logo{
+	height: auto !important;
+	line-height: 52px !important;
+	border: none !important;
+	width: 200px !important;
+}
+
+#header div[style^="font-size"], div#paginationTop{
+	display: none !important;
+}
+
+#header #userpanel{
+	margin: 0px!important;
+	line-height: 52px!important;
+	font-size: 14px !important;
+}
+
+#header #userpanel a{
+	color: white!important;
+	text-decoration: none!important;
+	margin: 0px!important;
+	padding: 0px!important;
+	padding-left: 20px!important;
+}
+#header #userpanel span{
+	display: none !important;
+}
+
+a[href="/browse"]{
+	display: none !important;
+}
+
+div#right_column, div#bookmarkListDeckAd{
+	display: none!important;
+}
+
+div#content{
+	width: 100% !important;
+	background-image: url("img/brown-menu.png");
+	background-repeat: repeat-x;
+}
+
+div#left_column{
+	margin: auto !important;
+	width: 700px !important;
+	float: none !important;
+}
+
+h2#categoryHeader{
+	width: 700px !important;
+	height: 41px !important;
+	line-height: 40px !important;
+	margin: auto !important;
+	color: #eec783 !important;
+	float: none !important;
+	word-spacing: 20px !important;
+	font-size: 16px !important;
+	}
+	
+h2#categoryHeader span{
+	display: none !important;
+}
+
+h2#categoryHeader a{
+	color: white !important
+}
+
+div#bookmark_list, div#stories_from_friends{
+	width: 700px !important;
+	margin: auto;
+	padding: 0 !important;
+	//border-left: 1px solid black;
+}
+
+div.tableViewCell{
+	margin-top: 0px !important;
+	padding: 0 !important;
+	padding-top: 30px !important;
+	border-top-left-radius: 0px !important;
+	border-top-right-radius: 0px !important;
+	padding-bottom: 30px !important;
+	background-color: transparent !important;
+	border: none !important;
+	border-bottom: 1px solid #25272a !important;
+	border-top: 1px solid #393c40 !important;
+	font-family: "Helvetica Neue", sans-serif !important;
+}
+
+div.tableViewCell a.tableViewCellTitleLink{
+	font-family: "Helvetica Neue", sans-serif !important;
+	color: white !important;
+	font-weight: bold !important;
+}
+
+div.tableViewCellFirst{
+	border-top: none !important;
+}
+
+div.tableViewCellLast{
+	-webkit-border-radius: 0px !important;
+	border-radius: 0px !important;
+}
+
+div.secondaryControls{
+	float: left !important;
+	color: #7d828b !important;
+	word-spacing: 10px;
+}
+
+div.secondaryControls span{
+	color: #7d828b !important;
+}
+
+div.secondaryControls span:nth-child(3){
+	padding-right: 10px !important;
+}
+
+div.secondaryControls a{
+	color: white !important;
+	border-bottom: 1px dotted #393c40 !important;
+}
+
+div.secondaryControls span.separator{
+	display: none !important;
+}
+
+div.secondaryControls span.separator:nth-child(4){
+	display: inline !important;
+	padding-right: 10px !important;
+}
+
+a.actionButton{
+	border: none !important;
+	-webkit-border-radius: 3px !important;
+	opacity: 0.8 !important;
+	padding: 5px 7px 7px 7px!important;
+	width: auto !important;
+}
+
+a.actionButton:hover{
+	opacity: 1 !important;
+}
+
+a.actionButton:active{
+	-webkit-box-shadow: inset 0px 1px 2px 0px rgba(0, 0, 0, 0.5), 0px 1px 0px 0px rgba(255, 255, 255, 0.02) !important;
+}
+
+a.textButton{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(112,71,0,1)), color-stop(100%,rgba(64,42,0,1)));
+	-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 0px 0px rgba(255, 255, 255, 0.02);
+	border: 1px solid #2b1c02 !important;
+	color: white !important;
+	text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2);
+}
+
+a.archiveButton{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(112,0,0,1)), color-stop(100%,rgba(64,0,0,1)));
+	-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 0px 0px rgba(255, 255, 255, 0.02);
+	border: 1px solid #2b0202 !important;
+	color: white !important;
+	text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2);
+}
+
+a.restoreButton{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(47, 136, 13, 1.0000)), color-stop(100%,rgba(27, 68, 8, 1.0000)));
+	-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 0px 0px rgba(255, 255, 255, 0.02);
+	border: 1px solid #13270b !important;
+	color: white !important;
+	text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2);
+}
+
+div.pagination{
+	border-top: 1px solid #393c40 !important;
+	padding: 0px !important;
+	margin: 0px !important;
+	width: 100% !important;
+	margin-top: 0px !important;
+	padding-top: 30px !important;
+}
+
+div.pagination a span, div.pagination a{
+	font-size: 21px !important;
+	color: white !important;
+	text-decoration: none !important;
+}
+
+div.pagination span:nth-child(2){
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+div#footer, div.summary {
+	display: none !important;
+}
+
+div#browse_deckad{
+	display: none !important;
+}
+
+div#sharemenu{
+	background: rgba(19, 20, 22, 0.98) !important;
+	border: 5px solid #0f1012 !important;
+	-webkit-box-shadow: inset 0px 0px 0px 5px rgba(255, 255, 255, 0.05) !important;
+}
