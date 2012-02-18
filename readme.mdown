@@ -4,6 +4,8 @@
 
 This extension changes the main appearance of Instapaper with a dark style.
 
+![Preview](preview.png)
+
 ## Install ##
 
 Double click on the .safariextz file to install. Now you should be able to see major changes on the Unread, Liked and Archive pages.
