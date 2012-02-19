@@ -8,7 +8,7 @@ This extension changes the main appearance of Instapaper with a dark style.
 
 ## Install ##
 
-Double click on the .safariextz file to install. Now you should be able to see major changes on the Unread, Liked and Archive pages.
+[Download](https://github.com/downloads/laggoun/Instafox-for-Safari/Instafox.safariextz) and double click on the .safariextz file to install. Now you should be able to see major changes on the Unread, Liked and Archive pages.
 
 ## Changelog ##
 
