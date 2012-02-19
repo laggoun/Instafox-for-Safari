@@ -51,6 +51,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.github.com/laggoun/Instafox-for-Safari/master/update-manifest.plist</string>
 	<key>Website</key>
 	<string>http://laggoun.com</string>
 </dict>
